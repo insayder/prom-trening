@@ -1,1 +1,1 @@
-# prom-trening
+# react-apps
